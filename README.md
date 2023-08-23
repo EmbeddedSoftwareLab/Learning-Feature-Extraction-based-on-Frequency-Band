@@ -10,7 +10,7 @@ The code has been written in Python and utilizes TensorFlow for constructing the
 
 ### Reference Link
 1. [Signal Decomposition with Fast Fourier Transforms]
+
    https://www.kaggle.com/code/residentmario/signal-decomposition-with-fast-fourier-transforms
 2. [Variational Mode Decomposition]
-
    K. Dragomiretskiy and D. Zosso, IEEE Transactions on Signal Processing, vol. 62, no. 3, pp. 531-544, Feb.1, 2014, doi: 10.1109/TSP.2013.2288675
